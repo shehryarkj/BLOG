@@ -1,0 +1,17 @@
+.navbar-toggler{
+    border:2px  solid black ;
+  }
+ #cnt{
+    background-image: url('src/comp/contact-bg.jpg');
+    background-size: 100% 100%;
+  
+ }
+ #nv{
+    /* border: solid rgb(189, 9, 9); */
+    /* color: white; */
+    font-weight: 1000;
+    width: 600px;
+    justify-content: space-between;
+
+ }
+ 
